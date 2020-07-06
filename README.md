@@ -23,3 +23,12 @@ W3Schools is optimized for learning, testing, and training. Examples might be si
 Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many...
 
 [DevDocs](https://devdocs.io/)
+
+
+Atom shortcuts
+[ShortCuts Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
+
+
+Emmet takes the snippets idea to a whole new level: you can type CSS-like expressions that can be dynamically parsed, and produce output depending on what you type in the abbreviation. Emmet is developed and optimised for web-developers whose workflow depends on HTML/XML and CSS, but can be used with programming languages too.
+
+[Emmet](https://docs.emmet.io/)
