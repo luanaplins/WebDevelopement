@@ -26,6 +26,7 @@ Fast, offline, and free documentation browser for developers. Search 100+ docs i
 
 
 Atom shortcuts
+
 [ShortCuts Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
 
 
